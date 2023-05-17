@@ -1,10 +1,10 @@
 ### Hi there / Hola! 👋
-I am a Software Engineer with a passion for learning new technologies and solving problems. I am currently working as a Software Engineer at [NTT Data](https://ar.nttdata.com/). I have experience in developing web applications using Angular, Flutter, React and React Native. I am currently learning Docker. I am very committed to my work and I am always looking for new challenges.
+I am a Software developer with a passion for learning new technologies and solving problems. I am currently working as a Software Engineer at [NTT Data](https://ar.nttdata.com/). I have experience in developing web applications using Angular, Flutter, React and React Native. I am currently learning Docker. I am very committed to my work and I am always looking for new challenges.
 
 I am from Argentina 🇦🇷 ⭐⭐⭐, I love to travel and play video games.
 
 
-Soy un Ingeniero en Sistemas con pasión por aprender nuevas tecnologías y resolver problemas. Actualmente trabajo como Software Engineer en [NTT Data](https://ar.nttdata.com/). Tengo experiencia en el desarrollo de aplicaciones web utilizando Angular, Flutter, React y React Native. Actualmente estoy aprendiendo Docker. Soy muy comprometido con mi trabajo y siempre estoy buscando nuevos desafíos.
+Soy un desarrollador de Sistemas con pasión por aprender nuevas tecnologías y resolver problemas. Actualmente trabajo como Software Engineer en [NTT Data](https://ar.nttdata.com/). Tengo experiencia en el desarrollo de aplicaciones web utilizando Angular, Flutter, React y React Native. Actualmente estoy aprendiendo Docker. Soy muy comprometido con mi trabajo y siempre estoy buscando nuevos desafíos.
 
 Soy de Argentina 🇦🇷 ⭐⭐⭐, me encanta viajar y jugar videojuegos.
 
